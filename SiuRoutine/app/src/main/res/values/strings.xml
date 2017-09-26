@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Siu Routine</string>
+    <string name="class_prompt">Choose your department</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
